@@ -1,5 +1,9 @@
 sword and spear
+<<<<<<< HEAD
 wall of shields
+=======
+Wall of shields,
+>>>>>>> feature
 standing strong
 on this their chosen battle field
 
